@@ -81,8 +81,8 @@ The application automatically processes data from DATA1, DATA2, and DATA3 folder
 ## Screenshots
 
 Homepage preview:
-![Dashboard Homepage](static/images/homepage.png)
+![Dashboard Homepage](homepage.png)
 
 Example chart:
-![Revenue Chart](static/images/example-chart.png)
+![Revenue Chart](example-chart.png)
 
